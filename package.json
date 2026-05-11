@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website",
   "version": "0.1.0",
-  "homepage": "https://shady-adel-x.github.io/Web-Project-",
+  "homepage": "https://shady-adel-x.github.io/Protofilo",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
