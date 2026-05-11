@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Web-Project-/static/css/main.a82e7c84.css",
+    "main.js": "/Web-Project-/static/js/main.79296f4d.js",
+    "static/js/453.80bcb094.chunk.js": "/Web-Project-/static/js/453.80bcb094.chunk.js",
+    "static/media/contact.png": "/Web-Project-/static/media/contact.f62d0fbfaad94bebf81d.png",
+    "static/media/logo.png": "/Web-Project-/static/media/logo.1f301aca962249e5dd43.png",
+    "static/media/meter1.png": "/Web-Project-/static/media/meter1.1f301aca962249e5dd43.png",
+    "static/media/meter2.png": "/Web-Project-/static/media/meter2.1f301aca962249e5dd43.png",
+    "static/media/meter3.png": "/Web-Project-/static/media/meter3.1f301aca962249e5dd43.png",
+    "static/media/nav-icon1.png": "/Web-Project-/static/media/nav-icon1.1f301aca962249e5dd43.png",
+    "static/media/nav-icon2.png": "/Web-Project-/static/media/nav-icon2.1f301aca962249e5dd43.png",
+    "static/media/nav-icon3.png": "/Web-Project-/static/media/nav-icon3.1f301aca962249e5dd43.png",
+    "static/media/project-img1.png": "/Web-Project-/static/media/project-img1.1f301aca962249e5dd43.png",
+    "static/media/project-img2.png": "/Web-Project-/static/media/project-img2.1f301aca962249e5dd43.png",
+    "static/media/project-img3.png": "/Web-Project-/static/media/project-img3.1f301aca962249e5dd43.png",
+    "static/media/CV.pdf": "/Web-Project-/static/media/CV.c264f8325b6de23a7ace.pdf",
+    "static/media/color-sharp2.png": "/Web-Project-/static/media/color-sharp2.94482e8731f714e566e1.png",
+    "static/media/color-sharp.png": "/Web-Project-/static/media/color-sharp.7c6b7f680578bf411f0a.png",
+    "static/media/header.jfif": "/Web-Project-/static/media/header.8919fd0df548a6d6beda.jfif",
+    "static/media/revicons.eot": "/Web-Project-/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Web-Project-/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Web-Project-/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Web-Project-/index.html",
+    "main.a82e7c84.css.map": "/Web-Project-/static/css/main.a82e7c84.css.map",
+    "main.79296f4d.js.map": "/Web-Project-/static/js/main.79296f4d.js.map",
+    "453.80bcb094.chunk.js.map": "/Web-Project-/static/js/453.80bcb094.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a82e7c84.css",
+    "static/js/main.79296f4d.js"
+  ]
+}
